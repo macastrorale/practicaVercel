@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $tecnologia = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "Las big tech invertirán US$ 200,000 millones en IA este año",
+"autor" => "GESTION",
+"resumen" => "La avalancha de inversiones pone de relieve los costos y recursos que consume el auge mundial de la IA motivado por la llegada de ChatGPT.",
 ];
 ?>
